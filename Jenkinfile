@@ -14,7 +14,7 @@ pipeline {
         stage("test") {
 
             steps {
-                git 'https://github.com/Cuteone201/Classtest.git'
+                git 'https://github.com/ahmedgithub-node1/MyKubernetes.git'
             }
         }
 
