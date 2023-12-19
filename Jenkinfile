@@ -14,7 +14,7 @@ pipeline {
         stage("test") {
 
             steps {
-                git 'git@github.com:Cuteone201/Classtest.git'
+                git 'https://github.com/Cuteone201/Classtest.git'
             }
         }
 
